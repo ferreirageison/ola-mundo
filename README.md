@@ -1,2 +1,2 @@
-# ola_mundo
- teste de repositorio git
+# Olá, Mundo!
+ Teste de criação do meu primeiro repositório Git.
