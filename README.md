@@ -4,3 +4,9 @@
  Mais um teste de edição direto do GitHub.
  
  Testando o **markdown**
+ 
+ ## As 3 princiais áreas para uso da linguagem de marcação **markdown**
+ 
+ 1. Readme.md
+ 2. Issues
+ 3. Pull requests
