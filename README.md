@@ -10,3 +10,8 @@
  1. Readme.md
  2. Issues
  3. Pull requests
+
+ Lista de tarefas 
+ - [] criar blog com markdown
+ - [] criar biografia completa
+ - [] colaborar em algum projeto
