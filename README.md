@@ -12,6 +12,6 @@
  3. Pull requests
 
  Lista de tarefas 
- - [] criar blog com markdown
- - [] criar biografia completa
- - [] colaborar em algum projeto
+ - [x] criar blog com markdown
+ - [ ] criar biografia completa
+ - [ ] colaborar em algum projeto
