@@ -11,7 +11,7 @@
  2. Issues
  3. Pull requests
 
- Lista de tarefas 
+ ### Lista de tarefas 
  - [x] criar blog com markdown
  - [ ] criar biografia completa
  - [ ] colaborar em algum projeto
